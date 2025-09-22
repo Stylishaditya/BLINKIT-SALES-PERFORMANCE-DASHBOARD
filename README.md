@@ -1,5 +1,7 @@
 # 📊 Blinkit Sales Performance Dashboard
 
+---
+
 ## 📸 Dashboard Screenshot
 ![Dashboard](Dashboard.jpg)
 
