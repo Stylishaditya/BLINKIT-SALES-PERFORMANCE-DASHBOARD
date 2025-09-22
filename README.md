@@ -35,10 +35,7 @@
 - **Popular Categories**: Dairy & Breakfast (1114 units), Household Care (1078 units).  
 - **Payment Mode Preference**: Card (1285), Cash (1257), Wallet (1244), UPI (1214).  
 - **Top Brands**: Karnik PLC & Lall LLC lead in order quantities.  
-
-📌 **Conclusion**:  
-Blinkit has strong sales growth with increasing premium customers, but delivery efficiency and customer satisfaction require improvement. Pet Care and Household Care categories drive significant sales, while card payments remain the most preferred method.  
-
+  
 ---
 
 ## 🛠 Excel Techniques Used
@@ -48,6 +45,11 @@ Blinkit has strong sales growth with increasing premium customers, but delivery 
 - Line Charts for brand trend comparison  
 - Conditional Formatting for KPI highlights  
 - Dashboard design using **interactive visuals**  
+
+---
+
+## 📌 Conclusion:  
+Blinkit has strong sales growth with increasing premium customers, but delivery efficiency and customer satisfaction require improvement. Pet Care and Household Care categories drive significant sales, while card payments remain the most preferred method.
 
 ---
 
