@@ -3,7 +3,7 @@
 ---
 
 ## 📸 Dashboard Screenshot
-![Dashboard](Dashboard.jpg)
+![Dashboard](Blinkit_Dashboard.jpg)
 
 ---
 
