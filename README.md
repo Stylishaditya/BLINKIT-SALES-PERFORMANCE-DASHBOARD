@@ -8,8 +8,8 @@
 ---
 
 ## 📌 Project Overview
-This project analyzes **Blinkit’s sales data** to evaluate customer behavior, sales trends, product performance, and delivery efficiency.  
-An interactive **Excel dashboard** was created to summarize insights and provide actionable recommendations for business decision-making.  
+- This project analyzes **Blinkit’s sales data** to evaluate customer behavior, sales trends, product performance, and delivery efficiency.  
+- An interactive **Excel dashboard** was created to summarize insights and provide actionable recommendations for business decision-making.  
 
 ---
 
