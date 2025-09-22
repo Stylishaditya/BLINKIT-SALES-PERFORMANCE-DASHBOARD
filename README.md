@@ -3,7 +3,7 @@
 ---
 
 ## 📸 Dashboard Screenshot
-![Blinkit_Dashboard.jpg](https://github.com/Stylishaditya/BLINKIT-SALES-PERFORMANCE-DASHBOARD/blob/main/Blinkit%20Dashboard.jpg)
+![Blinkit_Dashboard.jpg](https://github.com/Stylishaditya/Blinkit_Sales_Performance_Analysis/blob/main/Blinkit%20Dashboard.jpg)
 
 ---
 
