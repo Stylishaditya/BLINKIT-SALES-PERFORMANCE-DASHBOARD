@@ -23,7 +23,7 @@
 
 ---
 
-## 🔎 Findings & Conclusion
+## 🔎 Findings
 - **Average Rating**: 3.34 → Suggests scope for improving customer satisfaction.  
 - **Total Sales**: 6916.5K with **5K items sold**.  
 - **Customer Growth**: Noticeable increase in **Premium & Regular customers in 2024** compared to 2023.  
@@ -43,7 +43,7 @@
 - Slicers for **Year, Month, Quarter filters**  
 - Donut Charts & Bar Charts for product/category analysis  
 - Line Charts for brand trend comparison  
-- Conditional Formatting for KPI highlights  
+- Pivot Tables Reference for KPI highlights  
 - Dashboard design using **interactive visuals**  
 
 ---
